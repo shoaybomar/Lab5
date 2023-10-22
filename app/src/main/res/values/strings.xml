@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="task_name">Task Name</string>
+    <string name="urgency_1">Urgency: 1</string>
+    <string name="task_name2">Task Name</string>
+    <string name="urgency_2">Urgency: 1</string>
+    <string name="enter_a_task">Enter a task</string>
+    <string name="enter_a_task2">Enter a task</string>
+</resources>
